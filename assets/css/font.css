@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'superStoreLight';
+  src: url('./font/Superstore-Light.ttf');
+}
+@font-face {
+  font-family: 'superStoreBold';
+  src: url('./font/Superstore-Bold.ttf');
+}
+@font-face {
+  font-family: 'SukhumvitSet';
+  src: url('./font/SukhumvitSet.ttf');
+}

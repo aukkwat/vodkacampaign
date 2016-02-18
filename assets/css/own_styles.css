@@ -1,0 +1,118 @@
+  body{
+    background-color: #8CC449;
+    font-family: 'Kanit', sans-serif !important;
+  }
+  textarea{
+    resize: none;
+    background-color: transparent !important;
+    border-radius: 0 !important;
+    border-color: #fff !important;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+  input{
+    background-color: transparent !important;
+    border-radius: 0 !important;
+    border-color: #fff !important;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+  input::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.7) !important;
+  }
+
+  input:-moz-placeholder { /* Firefox 18- */
+  color: rgba(255, 255, 255, 0.7) !important;
+  }
+
+  input::-moz-placeholder {  /* Firefox 19+ */
+  color: rgba(255, 255, 255, 0.7) !important;
+  }
+
+  input:-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.7) !important;
+  }
+  textarea::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.7) !important;
+  }
+
+  textarea:-moz-placeholder { /* Firefox 18- */
+  color: rgba(255, 255, 255, 0.7) !important;
+  }
+
+  textarea::-moz-placeholder {  /* Firefox 19+ */
+  color: rgba(255, 255, 255, 0.7) !important;
+  }
+
+  textarea:-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.7) !important;
+  }
+
+  .paddingtop-lg{
+    padding-top: 45px;
+  }
+  .paddingtop-md{
+    padding-top: 30px;
+  }
+  .marginbottom-md{
+    margin-bottom: 30px;
+  }
+  .vodka-part1{
+    background-image: url('../img/vodka/1.png');
+    background-size: 100% 100%;
+    width: 100%;
+
+  }
+  .vodka-part2{
+    background-image: url('../img/vodka/2.png');
+    background-size: 100% 100%;
+    width: 100%;
+  }
+  .vodka-part3{
+    background-image: url('../img/vodka/3.png');
+    background-size: 100% 100%;
+    width: 100%;
+    position: relative;
+  }
+  .vodka-part3-child{
+    position: absolute;
+    top:50%;
+    transform: translateY(-50%);
+  }
+  .vodka-part1-child{
+    position:absolute;
+    bottom:2%
+  }
+  .vodkaTv{
+    display: block;
+  }
+  .vodkaTvMobile{
+    display: none;
+  }
+  @media screen and (max-width: 768px) {
+    .vodka-part1-child{
+      bottom:10%
+    }
+    .vodkaTv{
+      display: none;
+    }
+    .vodkaTvMobile{
+      display: block;
+    }
+    .vodka-part1{
+      background-image: url('../img/vodka/m1.png');
+    }
+    .vodka-part2{
+      background-image: url('../img/vodka/m2.png');
+    }
+    .vodka-part3{
+      background-image: url('../img/vodka/m3.png');
+    }
+    .vodka-part3-child{
+      position: absolute;
+      top:55%;
+      transform: translateY(-45%);
+    }
+  }

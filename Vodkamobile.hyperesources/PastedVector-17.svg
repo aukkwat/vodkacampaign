@@ -1,0 +1,41 @@
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="32.3px" height="32.3px" viewBox="0 0 32.3 32.3" enable-background="new 0 0 32.3 32.3"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					
+						<radialGradient id="SVGID_1_" cx="36.0236" cy="0.5988" r="13.8301" gradientTransform="matrix(1.1667 0 0 1.1667 -25.8931 15.4369)" gradientUnits="userSpaceOnUse">
+						<stop  offset="0.25" style="stop-color:#084567"/>
+						<stop  offset="0.6058" style="stop-color:#084668"/>
+						<stop  offset="0.7339" style="stop-color:#094A6E"/>
+						<stop  offset="0.8253" style="stop-color:#0A5077"/>
+						<stop  offset="0.8986" style="stop-color:#0B5A86"/>
+						<stop  offset="0.9239" style="stop-color:#0B5E8D"/>
+						<stop  offset="1" style="stop-color:#0E6699"/>
+					</radialGradient>
+					<circle fill="url(#SVGID_1_)" cx="16.1" cy="16.1" r="16.1"/>
+					<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="16.1355" y1="25.8886" x2="16.1355" y2="0.5719">
+						<stop  offset="0" style="stop-color:#084567"/>
+						<stop  offset="1" style="stop-color:#1888CA"/>
+					</linearGradient>
+					<ellipse fill="url(#SVGID_2_)" cx="16.1" cy="13.2" rx="13.7" ry="12.7"/>
+					<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="16.1356" y1="14.5812" x2="16.1356" y2="1.5291">
+						<stop  offset="5.076140e-03" style="stop-color:#0B5E8D"/>
+						<stop  offset="1" style="stop-color:#DCE7ED"/>
+					</linearGradient>
+					<path fill="url(#SVGID_3_)" d="M27,9.8c0-4.6-4.9-8.2-10.9-8.2c-6,0-10.9,3.7-10.9,8.2c0,4.6,4.9,4.8,10.9,4.8
+						C22.1,14.6,27,14.3,27,9.8z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 7.0147 14.5836)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'PSLAyyaraSP'" font-size="11.8037">ธุรกิจ</tspan><tspan x="-3.1" y="6.9" fill="#FFFFFF" font-family="'PSLAyyaraSP'" font-size="11.8037">การเงิน</tspan></text>
+</g>
+</svg>

@@ -1,0 +1,112 @@
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="34.9px" height="31.8px" viewBox="0 0 34.9 31.8" enable-background="new 0 0 34.9 31.8"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<g>
+		<g>
+			
+				<radialGradient id="SVGID_1_" cx="200.001" cy="-332.6973" r="13.6109" gradientTransform="matrix(0.8474 -0.8019 0.8019 0.8474 114.4406 458.1982)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.25" style="stop-color:#E5DEDB"/>
+				<stop  offset="0.6386" style="stop-color:#E3DCD9"/>
+				<stop  offset="0.7786" style="stop-color:#DDD6D3"/>
+				<stop  offset="0.878" style="stop-color:#D2CBC9"/>
+				<stop  offset="0.9239" style="stop-color:#CAC4C2"/>
+				<stop  offset="1" style="stop-color:#E5E1DC"/>
+			</radialGradient>
+			<circle fill="url(#SVGID_1_)" cx="17.1" cy="15.9" r="15.9"/>
+			
+				<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="200.9671" y1="-369.6417" x2="200.9671" y2="-394.5567" gradientTransform="matrix(0.7263 -0.6873 0.6873 0.7263 131.8255 429.4689)">
+				<stop  offset="0" style="stop-color:#E5DEDB"/>
+				<stop  offset="1" style="stop-color:#E5E1DC"/>
+			</linearGradient>
+			<path fill="url(#SVGID_2_)" d="M25,4.5c-4.7-5-13-4.9-18.4,0.2s-6,13.3-1.2,18.3c4.7,5,13,4.9,18.4-0.2S29.7,9.5,25,4.5z"/>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="200.9671" y1="-380.7699" x2="200.9671" y2="-393.6147" gradientTransform="matrix(0.7263 -0.6873 0.6873 0.7263 131.8255 429.4689)">
+				<stop  offset="5.076140e-03" style="stop-color:#E5E1DC"/>
+				<stop  offset="1" style="stop-color:#FFFAF6"/>
+			</linearGradient>
+			<path fill="url(#SVGID_3_)" d="M20.6,4c-3.1-3.3-9.1-2.6-13.4,1.5C3,9.5,2,15.4,5,18.7c3.1,3.3,6.7,0.1,11-3.9
+				C20.4,10.7,23.7,7.2,20.6,4z"/>
+		</g>
+		<g>
+			<defs>
+				<path id="SVGID_4_" d="M4.3,26.7c0-0.3-0.1-0.5-0.1-0.8c0.1-4,6-7.1,13.2-6.9c7.2,0.2,12.9,3.6,12.8,7.6c0,0.3,0,0.5-0.1,0.8
+					c2.9-2.5,4.7-6,4.8-9.8c0.2-8.1-7.4-14.9-17-15.2C8.2,2.2,0.2,8.5,0,16.7C-0.1,20.5,1.5,24,4.3,26.7z"/>
+			</defs>
+			<clipPath id="SVGID_5_">
+				<use xlink:href="#SVGID_4_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_5_)">
+				<g>
+					<g>
+						<g>
+							
+								<radialGradient id="SVGID_6_" cx="200.001" cy="-332.6971" r="13.6109" gradientTransform="matrix(0.8474 -0.8019 0.8019 0.8474 114.4403 458.1981)" gradientUnits="userSpaceOnUse">
+								<stop  offset="0.25" style="stop-color:#801517"/>
+								<stop  offset="0.6012" style="stop-color:#811517"/>
+								<stop  offset="0.7277" style="stop-color:#861719"/>
+								<stop  offset="0.8178" style="stop-color:#8F191C"/>
+								<stop  offset="0.8902" style="stop-color:#9C1C20"/>
+								<stop  offset="0.9239" style="stop-color:#A51E22"/>
+								<stop  offset="1" style="stop-color:#BE2026"/>
+							</radialGradient>
+							<circle fill="url(#SVGID_6_)" cx="17.1" cy="15.9" r="15.9"/>
+							
+								<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="200.9671" y1="-369.6417" x2="200.9671" y2="-394.5567" gradientTransform="matrix(0.7263 -0.6873 0.6873 0.7263 131.8255 429.4689)">
+								<stop  offset="0" style="stop-color:#801517"/>
+								<stop  offset="1" style="stop-color:#D91F27"/>
+							</linearGradient>
+							<path fill="url(#SVGID_7_)" d="M25,4.5c-4.7-5-13-4.9-18.4,0.2s-6,13.3-1.2,18.3c4.7,5,13,4.9,18.4-0.2S29.7,9.5,25,4.5z"/>
+							
+								<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="200.9671" y1="-380.7699" x2="200.9671" y2="-393.6147" gradientTransform="matrix(0.7263 -0.6873 0.6873 0.7263 131.8255 429.4689)">
+								<stop  offset="5.076140e-03" style="stop-color:#A51E22"/>
+								<stop  offset="1" style="stop-color:#EEDCDC"/>
+							</linearGradient>
+							<path fill="url(#SVGID_8_)" d="M20.6,4c-3.1-3.3-9.1-2.6-13.4,1.5C3,9.5,2,15.4,5,18.7c3.1,3.3,6.7,0.1,11-3.9
+								C20.4,10.7,23.7,7.2,20.6,4z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<circle id="SVGID_9_" cx="17.3" cy="10.7" r="6.9"/>
+			</defs>
+			<clipPath id="SVGID_10_">
+				<use xlink:href="#SVGID_9_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_10_)">
+				
+					<radialGradient id="SVGID_11_" cx="200.001" cy="-332.6973" r="13.6109" gradientTransform="matrix(0.8474 -0.8019 0.8019 0.8474 114.4406 458.1982)" gradientUnits="userSpaceOnUse">
+					<stop  offset="0.25" style="stop-color:#E5DEDB"/>
+					<stop  offset="0.6386" style="stop-color:#E3DCD9"/>
+					<stop  offset="0.7786" style="stop-color:#DDD6D3"/>
+					<stop  offset="0.878" style="stop-color:#D2CBC9"/>
+					<stop  offset="0.9239" style="stop-color:#CAC4C2"/>
+					<stop  offset="1" style="stop-color:#E5E1DC"/>
+				</radialGradient>
+				<circle fill="url(#SVGID_11_)" cx="17.1" cy="15.9" r="15.9"/>
+				
+					<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="200.9671" y1="-369.6417" x2="200.9671" y2="-394.5567" gradientTransform="matrix(0.7263 -0.6873 0.6873 0.7263 131.8255 429.4689)">
+					<stop  offset="0" style="stop-color:#E5DEDB"/>
+					<stop  offset="1" style="stop-color:#E5E1DC"/>
+				</linearGradient>
+				<path fill="url(#SVGID_12_)" d="M25,4.5c-4.7-5-13-4.9-18.4,0.2s-6,13.3-1.2,18.3c4.7,5,13,4.9,18.4-0.2S29.7,9.5,25,4.5z"/>
+				
+					<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="200.9671" y1="-380.7699" x2="200.9671" y2="-393.6147" gradientTransform="matrix(0.7263 -0.6873 0.6873 0.7263 131.8255 429.4689)">
+					<stop  offset="5.076140e-03" style="stop-color:#E5E1DC"/>
+					<stop  offset="1" style="stop-color:#FFFAF6"/>
+				</linearGradient>
+				<path fill="url(#SVGID_13_)" d="M20.6,4c-3.1-3.3-9.1-2.6-13.4,1.5C3,9.5,2,15.4,5,18.7c3.1,3.3,6.7,0.1,11-3.9
+					C20.4,10.7,23.7,7.2,20.6,4z"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(0.9987 -5.202000e-02 5.202000e-02 0.9987 11.7257 10.9297)"><tspan x="0" y="0" font-family="'PSLSamsonExtraSP'" font-size="6.3128">ตัวอย่าง</tspan><tspan x="0" y="4.3" font-family="'PSLSamsonExtraSP'" font-size="7.8759">หนัง</tspan></text>
+</g>
+</svg>
